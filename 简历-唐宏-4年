@@ -1,0 +1,134 @@
+# 简历
+
+## 基本信息
+
+- 信息：唐宏；26；男
+
+- 教育：天津商业大学；计算机科学与技术专业；本科
+
+- 工作经验：4年Android开发经验
+
+- 期望薪资：12k-13k
+
+- 联系方式：
+
+  - 电话：15002170761
+  - email：daybreak1103673121@gmail.com
+  - QQ：1103673121
+
+- 简介：4年Android开发经验，精通Android开发，掌握Web前端开发，架构项目开发框架，领导同事完成多个App的开发
+
+## 求职意向
+
+- 目标岗位：**高级Android开发工程师；西安；全职**
+- 目前状态：**离职状态；可快速到岗**
+
+## 工作经验
+
+- **上海寒诀网络科技有限公司**
+  - 职位：高级Android开发工程师
+  - 时间：2015.11-2018.4
+  - 职务：完成项目的开发及App的上线维护，搭建项目的基本开发框架，与产品协调出现的问题
+- **天津天大天星智能物联技术有限公司**
+  - 职位：Android开发工程师
+  - 时间：2014.9-2015.10
+  - 职务：完成公司项目的开发及App的上线及维护
+
+## 项目经验
+
+- **[麦萌漫画（已发布）](http://shouji.baidu.com/software/23515479.html)**：2015.11-至今；设计App开发框架，完成App功能的开发及上线维护
+  - 框架使用MVVM+Retrofit2+RxJava2+DataBinding开发
+  - 使用Material Design控件及技术开发
+  - 数据库使用GreenDao3.0及Rxjava2，完成CRUD及版本迭代
+  - 图片框架使用Fresco，解决了OOM
+  - Activity跳转使用路由跳转
+  - 设计Log记录框架，记录了页面跳转及事件Log
+  - 接入了微博，QQ，微信分享，第三方登录及微信与支付宝支付sdk
+  - 使用Rxjava2进行异步操作，封装RxBus
+  - 自定义View，实现RecyclerView放大缩小及仿ViewPager，自定义输入框，小说阅读各种效果
+  - 实现多渠道打包，分包及混淆
+- **[ComicGate（已发布google play）](https://play.google.com/store/apps/details?id=jp.comicgate.comic)**：2016.8-至今；设计App开发框架，完成App功能的开发及上线维护
+  - 框架使用MVVM+Retrofit2+RxJava2+DataBinding开发
+  - 使用Material Design控件及技术开发
+  - 数据库使用GreenDao3.0及Rxjava2，完成CRUD及版本迭代
+  - 图片框架使用Fresco，解决了OOM
+  - Activity跳转使用路由跳转，实现url跳转Activity
+  - 设计Log记录框架，记录了页面跳转及事件Log
+  - 接入了微博，QQ，微信分享，第三方登录及微信与支付宝支付sdk
+  - 使用Rxjava2进行异步操作，封装RxBus
+  - 自定义View，实现RecyclerView放大缩小及仿ViewPager，自定义输入框，小说阅读各种效果
+  - 实现多渠道打包，分包及混淆
+  - 多语言的实现
+  - 接入了google支付，Facebook，Twitter，Line，KaKao第三方登录及分享sdk接入
+- **[One（开发测试）](https://fir.im/oneap)**：2017.6-至今；设计App开发框架，完成App功能的开发
+  - 框架使用MVP+Retrofit2+Rxjava2+Kotlin开发
+  - 使用Material Design控件及技术开发
+  - 项目用Kotlin开发，封装了CommonLibrary，使项目与Base，Utils，Widget等解耦，可直接用于新项目开发
+  - 图片框架使用Glide
+  - 使用JsBridge实现WebView与js之间的交互
+  - 抓取“一个”App的数据进行接入
+  - Android插件化开发
+- **[麦萌资讯（开发中）](https://fir.im/maimengnews)**：2017.10-至今；设计App开发框架，完成App功能的开发
+  - 框架使用MVP+Retrofit2+Rxjava2
+  - 图片框架使用Picasso
+  - 使用XRecyclerView，BaseRecyclerAdapterHelper实现列表数据的加载
+  - 使用alibaba路由框架实现页面跳转
+  - 网络请求，utils分为library进行解耦
+  - 实现多渠道打包，分包及混淆
+- **[react_webpack_project（开发测试）](https://github.com/hong-tang/react_webpack_project)**：2017.9-至今；搭建项目框架，开发项目
+  - 使用Webpack初始化React项目
+  - CSS使用SCSS开发，使用flex进行布局
+  - 使用lib-flexible适配移动端，使用rem进行适配
+  - 使用whatwg-fetch，redux-promise，redux-thunk实现网络请求，使用redux管理项目数据及状
+  - react-router实现路由跳转
+
+## 专业技能
+
+- **Android：**
+
+  **精通：**
+
+  - Java，Java多线程及IO流操作
+  - Android基础，自定义View，四大组件的应用，Android动画开发
+  - Handler，Meaasge，Message Queue，Looper通信
+  - Android数据存储（SharedPrefences，Sqlite，ContentProvider，本地存储）
+  - Binder进程通信机制及进程间通信AIDL开发
+  - Android手势及事件分发的处理
+  - Android开发框架MVP，MVVM，MVC的搭建
+  - Android数据库的应用及升级（GreenDao3，Room，Realm）
+  - WebView设置，WebView中Java与Js的交互
+  - 网络请求（Volley，OkHttp3，Retrofit2，RxJava2）
+  - Rxjava的管理，RxJava2实现异步，RxBus封装
+  - Dagger2的应用
+  - 图片的三级缓存，图片的压缩，图片框架的应用（Fresco，Glide，Picasso）使用
+  - Android Material Design组件的设计与应用
+  - App多语言的实现
+  - App页面实现路由跳转
+  - 应用Kotlin开发App
+  - 第三方平台的分享，登录及支付的接入
+  - 代码的优化，解决App内的OOM，ANR的问题
+
+  **掌握：**
+
+  - Android6.0，7.0，8.0版本的改动
+  - 了解github上的Android优秀的开源框架
+  - 阅读《阿里巴巴Android开发手册》
+  - Android热更新，插件化，模块化及组件化开发
+
+
+- **Web：**
+
+  **掌握：**
+
+  - JavaScript基础及es6
+  - Webpack搭建项目
+  - React开发，redux，redux-promise，redux-thunk，react-router的应用
+  - CSS，SASS的应用
+
+
+## 自我评价
+
+- 有较强的学习能力，比较喜欢研究技术，在Android开发过程中，学习Web前端开发及Kotlin开发语言
+- 有着良好的代码风格，开发中比较注重App性能及代码优化
+- 能够很好地协作能力，能够组织、协作完成项目
+- 对问题有着较强的解决能力
