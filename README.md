@@ -1,2 +1,2 @@
 # resume
-简历-唐宏-4年-android
+简历-唐宏-android-4年
